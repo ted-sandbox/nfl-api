@@ -1,0 +1,17 @@
+{
+  "name": "nflapi",
+  "version": "1.0.0",
+  "description": "NFL Data Parser",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "express": "^4.16.2",
+    "xml2js": "^0.4.19",
+    "xmlserializer": "^0.6.0"
+  }
+}
